@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Portfolio Website",
+    "description": "Personal portfolio website built with React and TypeScript",
+    "html_url": "https://github.com/dcatalaan/portfolio",
+    "homepage": "https://dcatalaan.github.io/portfolio",
+    "language": "TypeScript"
+  },
+  {
+    "name": "Weather App",
+    "description": "A weather application that displays current weather conditions and forecasts",
+    "html_url": "https://github.com/dcatalaan/weather-app",
+    "language": "JavaScript"
+  },
+  {
+    "name": "Task Manager",
+    "description": "A task management application with features for creating, editing, and organizing tasks",
+    "html_url": "https://github.com/dcatalaan/task-manager",
+    "language": "TypeScript"
+  },
+  {
+    "name": "Expense Tracker",
+    "description": "A simple expense tracking application that helps users manage their finances",
+    "html_url": "https://github.com/dcatalaan/expense-tracker",
+    "language": "React"
+  },
+  {
+    "name": "E-commerce Website",
+    "description": "A full-stack e-commerce website with product catalog, shopping cart, and checkout functionality",
+    "html_url": "https://github.com/dcatalaan/e-commerce",
+    "language": "Node.js"
+  }
+]

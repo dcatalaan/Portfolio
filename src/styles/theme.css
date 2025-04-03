@@ -1,0 +1,90 @@
+:root {
+  --primary-color: #6a0dad;
+  --primary-dark: #5a058d;
+  --primary-light: #7a11c1;
+  --text-dark: #000000;
+  --text-light: #ffffff;
+  --bg-dark: #1a1a1a;
+  --bg-light: #ffffff;
+  --border-dark: #333333;
+  --border-light: #e0e0e0;
+}
+
+body {
+  background-color: var(--bg-light);
+}
+
+body.dark {
+  background-color: var(--bg-dark);
+}
+
+/* Links */
+.text-primary {
+  color: var(--primary-color);
+}
+
+.text-primary:hover {
+  color: var(--primary-dark);
+}
+
+/* Buttons */
+.bg-primary {
+  background-color: var(--primary-color);
+}
+
+.bg-primary:hover {
+  background-color: var(--primary-dark);
+}
+
+/* Cards and containers */
+.bg-card {
+  background-color: var(--bg-light);
+}
+
+.bg-card.dark {
+  background-color: var(--bg-dark);
+}
+
+/* Borders */
+.border-primary {
+  border-color: var(--primary-color);
+}
+
+.border-dark {
+  border-color: var(--border-dark);
+}
+
+/* Text colors */
+.text-dark {
+  color: var(--text-dark);
+}
+
+.text-light {
+  color: var(--text-light);
+}
+
+/* Hover effects */
+.hover-primary {
+  transition: background-color 0.3s ease;
+}
+
+.hover-primary:hover {
+  background-color: var(--primary-dark);
+}
+
+/* Dark mode variants */
+.dark .text-dark {
+  color: var(--text-light);
+}
+
+.dark .text-light {
+  color: var(--text-dark);
+}
+
+.dark .bg-card {
+  background-color: var(--bg-dark);
+}
+
+.dark .border-dark {
+  border-color: var(--border-light);
+}
