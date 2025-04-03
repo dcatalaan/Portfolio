@@ -93,7 +93,7 @@ portfolio/
 
 ## 🎵 Reproductor de Audio
 
-El proyecto incluye un reproductor de audio estilo Dynamic Island que reproduce la canción "VUELVE CANDY B" de Bad Bunny. El reproductor incluye:
+El proyecto incluye un reproductor de audio estilo Dynamic Island que reproduce canciones. El reproductor incluye:
 - Controles de reproducción
 - Control de volumen
 - Modo silencioso
@@ -114,9 +114,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 ## 🤝 Contribuciones
 
 Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría hacer.
-
-## 📧 Contacto
-
-[Tu Nombre] - [tu@email.com]
-
-Link del Proyecto: [https://github.com/TU_USUARIO/portfolio](https://github.com/TU_USUARIO/portfolio) 
